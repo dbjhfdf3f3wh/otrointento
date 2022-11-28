@@ -1,0 +1,51 @@
+
+h1{
+  height: 20px;
+  text-align: center;
+  color:red;
+  font-size: xx-large;
+  text-shadow:3px 3px 20px black;
+  margin-bottom: 30px;
+  margin:40px 0;
+}
+input.cal1{
+  height:40px;
+  width:100%;
+  text-align: center;
+  vertical-align:25px;
+  text-transform: capitalize;
+  border-radius:20px;
+  border-color: blue;
+  border-width:1px;
+  background:#24302c;
+  margin-bottom:40px;
+  color:white;
+  
+}
+form.register{
+background-position:center;
+width:400px;
+height:40px;
+background-color: #24302c;
+padding: 50px;
+margin: auto;
+border-radius:8px;
+font-family: calibri;
+color: white;
+height:400px;
+margin-top:100px;
+color: white;
+box-shadow:10px 13px 37px #000;
+
+}
+input.boton{
+  height:40px;
+  width: 100%;
+  background:blue;
+  border-color: #24302c;
+  color: white;
+
+}
+body{
+  background-image: url(https://media.vandal.net/i/640x360/9-2017/201792611530_1.jpg);
+}
